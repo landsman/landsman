@@ -1,8 +1,4 @@
 ### Hey 👋
 
-Help me build something amazing. 
+![code taste after long time no see](https://64.media.tumblr.com/daa740e772f52539ed0235154bfc692d/tumblr_mz8lej4T0M1toxy7eo1_r1_400.gif)
 
-Join [@trisbee](https://github.com/trisbee) and work on a useful product for lots of people in EU and LATAM 🚀
-
-[![hiring-ad](
-https://web-assets.trisbee.com/web/company-site/og-images/og-trisbee-job-senior-frontend.png)](https://www.trisbee.com/en/careers/senior-developer.tsx)
