@@ -1,5 +1,13 @@
 # Hey there! 👋🏼
 
-I'm a technology enthusiast with a passion for programming, user experience, and design. From prototypes and infrastructure to backends and client apps, I'm always eager to have an end-to-end understanding and bring clarity to business needs. If you're interested in collaborating on a project or discussing the latest tech trends, feel free to [connect with me](https://twitter.com/landsman).
+I'm a technology enthusiast passionate about programming, user experience, and design. I love working across the stack — from prototypes and infrastructure to backends and client apps — always aiming for an end-to-end understanding and clarity in solving business needs.
 
-In my free time, you can find me hanging out with [my dog](http://instagram.com/joshi.the.shiba/) or enjoying [music](https://landsman.github.io/music/), games, old sitcoms, sci-fi, youngtimer cars & EVs, Linux, and tech in general.
+Tech:
+- **Linux**
+- **Kotlin/Java** or **PHP**
+- React with Typescript or plain JS with JSDoc
+- **Infrastructure as Code** is must have for me.
+
+When I'm not coding, I’m probably hanging out with [my dog](http://instagram.com/joshi.the.shiba/), enjoying [music](https://landsman.github.io/music/), playing games, watching old sitcoms or sci-fi, or obsessing over youngtimer cars, EVs, and, of course, Linux.
+
+If you're into any of that or just want to talk about your project, feel free to connect with me - [X](https://twitter.com/landsman) / [Bsky](https://bsky.app/profile/landsman.bsky.social).
