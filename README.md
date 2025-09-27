@@ -3,7 +3,7 @@
 I'm a technology enthusiast passionate about programming, user experience, and design. I love working across the stack — from prototypes and infrastructure to backends and client apps — always aiming for an end-to-end understanding and clarity in solving business needs.
 
 Tech:
-- **Linux**
+- **Linux**/macOS
 - **Kotlin/Java** or **PHP**
 - React with Typescript or plain JS with JSDoc
 - **Infrastructure as Code** is must have for me.
